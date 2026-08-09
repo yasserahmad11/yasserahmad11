@@ -1,6 +1,10 @@
 # Oi, eu sou o Yasser Ahmad! 👋
 
-Sou estudante de Engenharia de Software, atualmente estudando **HTML, CSS, JavaScript, Python e C**.
+##
+
+<div align="center">
+  <img src="./assets/Banner.png" alt="Yasser Ahmad - Banner" width="100%">
+</div>
 
 ##
 
@@ -20,9 +24,6 @@ Sou estudante de Engenharia de Software, atualmente estudando **HTML, CSS, JavaS
 
 <div>
   <img align="center" src="https://github-stats-extended.vercel.app/api?username=yasserahmad11&show_icons=true&theme=default" alt="GitHub Stats" />
-
-##
-
   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yasserahmad11&layout=compact&theme=default" alt="Top Languages" />
 </div>
 
@@ -32,6 +33,6 @@ Sou estudante de Engenharia de Software, atualmente estudando **HTML, CSS, JavaS
 
 <div>
   <a href="mailto:yasserahmad2404@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/yasser-ahmad-1247523b6/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yasser-ahmad-1247523b6/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/yasserahmad11" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div>
