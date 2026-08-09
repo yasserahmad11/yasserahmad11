@@ -1,12 +1,8 @@
 # Oi, eu sou o Yasser Ahmad! 👋
 
-##
-
 <div align="center">
   <img src="./assets/Banner.jpeg" alt="Yasser Ahmad - Banner" width="100%">
 </div>
-
-##
 
 ## 🚀 Tecnologias que estou estudando
 
