@@ -3,7 +3,7 @@
 ##
 
 <div align="center">
-  <img src="./assets/Banner.png" alt="Yasser Ahmad - Banner" width="100%">
+  <img src="./assets/Banner.jpeg" alt="Yasser Ahmad - Banner" width="100%">
 </div>
 
 ##
