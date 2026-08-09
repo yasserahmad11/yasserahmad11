@@ -1,16 +1,37 @@
-## Hi there 👋
+# Oi, eu sou o Yasser Ahmad! 👋
 
-<!--
-**yasserahmad11/yasserahmad11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de Engenharia de Software, atualmente estudando **HTML, CSS, JavaScript, Python e C**.
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou estudando
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Yasser-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Yasser-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Yasser-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Yasser-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Yasser-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+</div>
+
+##
+
+## 📊 GitHub Stats
+
+<div>
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=yasserahmad11&show_icons=true&theme=default" alt="GitHub Stats" />
+
+##
+
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yasserahmad11&layout=compact&theme=default" alt="Top Languages" />
+</div>
+
+##
+
+## 🔗 Redes sociais e contato
+
+<div>
+  <a href="mailto:yasserahmad2404@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/SEU_LINKEDIN_AQUI](https://www.linkedin.com/in/yasser-ahmad-1247523b6/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://github.com/yasserahmad11" target="_blank"><img src="https://img.shields.io/badge/-GitHub-%23100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+</div>
