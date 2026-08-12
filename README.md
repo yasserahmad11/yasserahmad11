@@ -18,12 +18,7 @@
 
 ## 📊 GitHub Stats
 
-<div>
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=yasserahmad11&show_icons=true&theme=default" alt="GitHub Stats" />
-  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yasserahmad11&layout=compact&theme=default" alt="Top Languages" />
-</div>
-
-##
+<div> <img align="center" src="https://github-stats-extended.vercel.app/api?username=yasserahmad11&show_icons=true&theme=default&cache_seconds=21600" alt="GitHub Stats" /> <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=yasserahmad11&layout=compact&theme=default&cache_seconds=21600" alt="Top Languages" /> </div>
 
 ## 🔗 Redes sociais e contato
 
